@@ -1,0 +1,16 @@
+*{
+    background-color: yellowgreen
+}
+
+h1, h2 ,h3 ,h4  {
+    color:blueviolet;
+    font-size: 27px;
+}
+p {
+    color:cornflowerblue;
+    font-size: 17px;
+}
+
+ul li {
+    color: red;
+}
